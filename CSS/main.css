@@ -55,6 +55,11 @@ background-color:#3AC1EF!important
  background-size: cover;
  background-position: center;
 }
+.header h1{
+ 
+ font-size: 64px;
+}
+
 .overlay{
  position: absolute;
  min-height: 100%;
@@ -107,6 +112,7 @@ background-color:#3AC1EF!important
  color: #3AC1EF;
 }
 .about .desc p{
+ font-size: 24px;  
  line-height:2;
  color:#888;
 }
